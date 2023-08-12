@@ -238,9 +238,17 @@ Benim ismim **Uye Etiketleme Botu**. Ben Grubunuzdaki kisileri etiketlemek icin 
 
 Botu grubunuza ekleyin bos yetki vermeniz yeterlidir
 
- Lutfen Grubumuza Katılın @Sohbetf ye katilin
+Lutfen Grubumuza Katılın @Sohbetf ye katilin
 
 Komutlar icin /help yaz tiklayin komutlar icin
+
+**Komutlar**:
+- /all: <i>/all ve mesaj tum kisileri etiketler.</i>
+- /ping "mesaj": <i>herkesi etiketler.ust cift ttnak isaretli</i>
+- /remove: <i>Tum kisiler siler.</i>
+- /admins: <i>Adminleri etiketler.</i>
+- /bots: <i>tum botlar etiketler.</i>
+- /stop: <i>Durdur botu.</i>
 
 Reklam ve iletisim icin bana yazin
 Lutfen Grubumuza Katılın @Sohbetf
