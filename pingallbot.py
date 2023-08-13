@@ -250,7 +250,7 @@ Komutlar icin /help yaz tiklayin komutlar icin
 - /bots: <i>tum botlar etiketler.</i>
 - /stop: <i>Durdur botu.</i>
 
-Reklam ve iletisim icin bana yazin
+Reklam ve iletisim icin bana yazin @reklam_iletisim hesabima
 Lutfen Grubumuza Katılın @Sohbetf
 
 '''
