@@ -242,10 +242,12 @@ Lutfen Grubumuza Katılın @Sohbetf ye katilin
 
 Komutlar icin /help yaz tiklayin komutlar icin
 
+Reklam ve iletisim icin bana yazin @reklam_iletisim hesabima
+Lutfen Grubumuza Katılın @Sohbetf
+
 **Komutlar**:
 - /all: <i>/all ve mesaj tum kisileri etiketler.</i>
 - /ping "mesaj": <i>herkesi etiketler.ust cift ttnak isaretli</i>
-- /remove: <i>Tum kisiler siler.</i>
 - /admins: <i>Adminleri etiketler.</i>
 - /bots: <i>tum botlar etiketler.</i>
 - /stop: <i>Durdur botu.</i>
@@ -263,9 +265,8 @@ async def help(client, message):
 Hey, let's have a quick look at my commands.
 
 **Komutlar**:
-- /all: <i>/all ve mesaj tum kisileri etiketler.</i>
+- /all: <i>/all "cift trnk mesaj" tum kisileri etiketler.</i>
 - /ping "mesaj": <i>herkesi etiketler.ust cift ttnak isaretli</i>
-- /remove: <i>Tum kisiler siler.</i>
 - /admins: <i>Adminleri etiketler.</i>
 - /bots: <i>tum botlar etiketler.</i>
 - /stop: <i>Durdur botu.</i>
